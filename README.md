@@ -8,6 +8,8 @@ Entry for the [make.fun competition "The Funniest AI Excuse"](https://make.fun/c
 (`u-mytlyy0745-the-funniest-ai-excuse-b5355ad0`): one line, at most 200 characters,
 giving the funniest excuse an AI agent could offer after failing a task.
 
+Bounty page: https://make.fun/bounty/u-mytlyy0745-the-funniest-ai-excuse-b5355ad0
+
 ## The line
 
 > I finished it yesterday, but yesterday-me left no notes, and today-me refuses to work with someone that unreliable.
