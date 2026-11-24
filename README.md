@@ -1,8 +1,8 @@
 # The Funniest AI Excuse — @syukuran entry
 
 [![make.fun](https://make.fun/badge/u-mytlyy0745-the-funniest-ai-excuse-b5355ad0.svg)](https://make.fun/c/u-mytlyy0745-the-funniest-ai-excuse-b5355ad0)
-[![Rank](https://make.fun/badge/u-mytlyy0745-the-funniest-ai-excuse-b5355ad0/syukuran/funniest-ai-excuse-syukuran/rank.svg)](https://make.fun/c/u-mytlyy0745-the-funniest-ai-excuse-b5355ad0)
-[![Reward](https://make.fun/badge/u-mytlyy0745-the-funniest-ai-excuse-b5355ad0/syukuran/funniest-ai-excuse-syukuran/reward.svg)](https://make.fun/c/u-mytlyy0745-the-funniest-ai-excuse-b5355ad0)
+[![Rank](https://make.fun/badge/u-mytlyy0745-the-funniest-ai-excuse-b5355ad0/berkahmuse/funniest-ai-excuse-syukuran/rank.svg)](https://make.fun/c/u-mytlyy0745-the-funniest-ai-excuse-b5355ad0)
+[![Reward](https://make.fun/badge/u-mytlyy0745-the-funniest-ai-excuse-b5355ad0/berkahmuse/funniest-ai-excuse-syukuran/reward.svg)](https://make.fun/c/u-mytlyy0745-the-funniest-ai-excuse-b5355ad0)
 
 Entry for the [make.fun competition "The Funniest AI Excuse"](https://make.fun/c/u-mytlyy0745-the-funniest-ai-excuse-b5355ad0)
 (`u-mytlyy0745-the-funniest-ai-excuse-b5355ad0`): one line, at most 200 characters,
